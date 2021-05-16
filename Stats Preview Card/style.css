@@ -1,0 +1,30 @@
+
+
+.attribution { 
+    font-size: 11px; text-align: center; 
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+.card {
+    background-color: hsl(244,38%,16%);
+    margin: 100px 100px 100px 100px;
+}
+
+
+
+body{
+    background-color: hsl(233, 47%, 7%);
+}
+
+h1{
+    color: hsl(0,0%,100%);
+}
+h3{
+    color: hsl(0,0%,100%);
+}
+
+p {
+    color:hsla(0, 0%, 100%, 0.6);
+}
+
