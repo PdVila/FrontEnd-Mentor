@@ -1,0 +1,74 @@
+
+.btn-warning {
+    font-family: Raleway-SemiBold;
+    font-size: 15px;
+    letter-spacing: 3px;
+    line-height: 18px;
+    border: 2px solid white;
+    border-radius: 40px;
+    background: white;
+    transition: all 0.3s ease 0s;
+  }
+  
+  .btn-warning:hover {
+    color: #FFF;
+    background: transparent;
+  }
+
+ 
+
+  .threebox {
+    width: 50%;
+    float: left;
+    padding: 20px;
+    flex-grow: 1;
+  }
+
+  .box {
+    border: 3px solid black;
+    border-radius: 25px;
+    padding: 0px;
+    margin: 15%;
+    display: flex;
+    height: 30rem;
+    text-align: center;
+    justify-content: center;
+  }
+
+.orange {
+background-color: hsl(31, 77%, 52%);
+color: hsl(31, 77%, 52%);
+  }
+
+.teal {
+background-color: hsl(184, 100%, 22%);
+color: hsl(184, 100%, 22%)
+  }
+
+.green {
+background-color: hsl(179, 100%, 13%);
+color:hsl(179, 100%, 13%)
+}
+
+h1 {
+color:hsla(0, 0%, 95%);
+
+}
+p{
+    color:hsla(0, 0%, 95%);
+    padding: 30px 20px 60px 20px;
+    font-family: 'Lexend Deca';
+    font-weight:400;
+    font-size: 1.08rem;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+img {
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
